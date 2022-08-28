@@ -23,4 +23,3 @@ java -version
 node --version
 npm -v
 aws --version
-docker --version
