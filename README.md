@@ -1,4 +1,4 @@
-# terraform-demo
+# terraform-EC2
 create a AWS EC2 instance install jenkinst to the instance
 
 1.Create a AWS EC2 Instance.<br>
