@@ -1,0 +1,6 @@
+# terraform-demo
+create a AWS EC2 instance install jenkinst to the instance
+
+1.Create a AWS EC2 Instance.
+2.SSH connet to the instance and copy private key
+3.install jenkins
